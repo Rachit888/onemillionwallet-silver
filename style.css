@@ -1,0 +1,28 @@
+#exTab3 .nav-pills > li > a {
+  border-radius: 4px 4px 4x 4x ;
+
+}
+
+#exTab3 .tab-content {
+  color : black;
+  background-color: white;
+  padding : 5px 15px;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+button {
+  border-radius: 4px 4px 4x 4x ;
+  background-color: #337AB7;
+  color: white;
+}
+
+button:hover {
+  background-color: #0f4acad3;
+}
+
+body {
+  font-family: 'Trebuchet MS', sans-serif;
+}
